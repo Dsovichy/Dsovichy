@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.pinimg.com/736x/4b/67/83/4b6783ec8ea0de5100a9f7886903fc21.jpg" width="900"/>
+</p>
+  
+
 <h1 align="center">Hi 👋, I'm Churchill Duane V. Daus</h1>
 <h3 align="center">A harmless creature</h3>
 
